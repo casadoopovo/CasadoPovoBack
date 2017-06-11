@@ -1,0 +1,7 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+	Header set Access-control-Allow-Origin *
+</IfModule>
+
+# END WordPress
